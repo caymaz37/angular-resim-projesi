@@ -1,3 +1,19 @@
 p {
   font-family: Lato;
 }
+
+.paginationUl {
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.mainImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Img {
+  max-height: 500px;
+}
